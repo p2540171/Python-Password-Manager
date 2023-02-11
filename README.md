@@ -31,4 +31,4 @@ License
 GPL-3.0
 
 Author
-@danielojobo
+[@danielojobo] (https://github.com/p2540171)
