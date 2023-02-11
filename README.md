@@ -30,5 +30,5 @@ Run the file
 License
 GPL-3.0
 
-##Author
+Author
 [@danielojobo](https://github.com/p2540171)
