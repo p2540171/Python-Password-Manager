@@ -11,11 +11,13 @@ Run Locally
 Download the executable file from releases
 Create a New Folder and Paste the executable there
 This folder is completely portable
+
 If you wish to move your passwords to a different location just transfer the whole folder there
 OR
 Clone the project
 
-  git clone https://github.com/DivyanshuAG/Password-Manager-Using-Python
+  git clone (https://github.com/p2540171/Python-Password-Manager.git)
+  
 Go to the project directory
 
   cd "Password Manager Using Python"
