@@ -27,8 +27,7 @@ Install dependencies
 Run the file
 
   python password_manager.py
-License
-GPL-3.0
+[GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
 
 Author
 [@danielojobo](https://github.com/p2540171)
